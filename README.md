@@ -634,6 +634,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2603.00519)]
 [[Code](https://github.com/chen-yy20/Jano)]
 
+**SODA: Sensitivity-Oriented Dynamic Acceleration for Diffusion Transformer** \
+[[Website](https://arxiv.org/abs/2603.07057)]
+[[Code](https://github.com/leaves162/SODA)]
+
+**TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward** \
+[[Website](https://arxiv.org/abs/2603.07700)]
+[[Code](https://github.com/Luo-Yihong/TDM-R1)]
+
 **Distilling Diffusion Models into Conditional GANs** \
 [[ECCV 2024](https://arxiv.org/abs/2405.05967)]
 [[Project](https://mingukkang.github.io/Diffusion2GAN/)]
@@ -2576,6 +2584,14 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **FiDeSR: High-Fidelity and Detail-Preserving One-Step Diffusion Super-Resolution** \
 [[Website](https://arxiv.org/abs/2603.02692)] 
 [[Code](https://github.com/Ar0Kim/FiDeSR)] 
+
+**Spectral and Trajectory Regularization for Diffusion Transformer Super-Resolution** \
+[[Website](https://arxiv.org/abs/2603.06275)] 
+[[Code](https://github.com/jkwang28/StrSR)] 
+
+**Disentangled Textual Priors for Diffusion-based Image Super-Resolution** \
+[[Website](https://arxiv.org/abs/2603.07430)] 
+[[Code](https://github.com/JL6666JL/DTPSR)] 
 
 **The Power of Context: How Multimodality Improves Image Super-Resolution** \
 [[Website](https://arxiv.org/abs/2503.14503)] 
@@ -5440,6 +5456,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2602.20880)] 
 [[Code](https://github.com/tmllab/2026_CVPR_CASG)]
 
+**Prototype-Guided Concept Erasure in Diffusion Models** \
+[[Website](https://arxiv.org/abs/2603.08271)] 
+[[Code](https://github.com/Cocteau-23/Prototype-Guided-Concept-Erasure)]
+
 **Implicit Concept Removal of Diffusion Models** \
 [[ECCV 2024](https://arxiv.org/abs/2310.05873)] 
 [[Project](https://kaichen1998.github.io/projects/geom-erasing/)]
@@ -5989,6 +6009,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 **Reverse Personalization** \
 [[Website](https://arxiv.org/abs/2512.22984)] 
 [[Code](https://github.com/hanweikung/reverse-personalization)] 
+
+**PureCC: Pure Learning for Text-to-Image Concept Customization** \
+[[Website](https://arxiv.org/abs/2603.07561)] 
+[[Code](https://github.com/lzc-sg/PureCC)] 
 
 **AssetDropper: Asset Extraction via Diffusion Models with Reward-Driven Optimization** \
 [[SIGGRAPH 2025](https://arxiv.org/abs/2506.07738)] 
@@ -7208,7 +7232,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Diffusers Code](https://github.com/huggingface/diffusers/blob/main/src/diffusers/pipelines/stable_diffusion/pipeline_stable_diffusion_sag.py)]
 <!-- [[Demo](https://huggingface.co/spaces/susunghong/Self-Attention-Guidance)] -->
 
-**Expressive Text-to-Image Generation with Rich Text** \
+<!-- **Expressive Text-to-Image Generation with Rich Text** \
 [[ICCV 2023](https://openaccess.thecvf.com/content/ICCV2023/html/Ge_Expressive_Text-to-Image_Generation_with_Rich_Text_ICCV_2023_paper.html)] 
 [[Website](https://arxiv.org/abs/2304.06720)] 
 [[Project](https://rich-text-to-image.github.io/)] 
@@ -8920,10 +8944,10 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2602.13585)]
 
 **GASS: Geometry-Aware Spherical Sampling for Disentangled Diversity Enhancement in Text-to-Image Generation** \
-[[Website](https://arxiv.org/abs/2602.17200)]
+[[Website](https://arxiv.org/abs/2602.17200)] -->
 
 
-## Spatial Control
+<!-- ## Spatial Control
 
 **MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation** \
 [[ICML 2023](https://icml.cc/virtual/2023/poster/23809)] 
@@ -9353,7 +9377,7 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2511.18333)] 
 
 **POCI-Diff: Position Objects Consistently and Interactively with 3D-Layout Guided Diffusion** \
-[[Website](https://arxiv.org/abs/2601.14056)]  -->
+[[Website](https://arxiv.org/abs/2601.14056)] -->
 
 
 
