@@ -190,6 +190,9 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[Website](https://arxiv.org/abs/2507.04218)] 
 [[Project](https://dreamposter.github.io/)] 
 
+**LogoDiffuser: Training-Free Multilingual Logo Generation and Stylization via Letter-Aware Attention Control** \
+[[Website](https://arxiv.org/abs/2603.09759)] 
+
 # Accelerate
 
 **PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models** \
@@ -2191,6 +2194,11 @@ We are looking for postdocs to join [LAMP group](https://groups.google.com/g/ml-
 [[ICML 2025](https://arxiv.org/abs/2505.08281)] 
 [[Project](https://njuvision.github.io/ResULIC/)] 
 [[Code](https://github.com/NJUVISION/ResULIC)] 
+
+**DiT-IC: Aligned Diffusion Transformer for Efficient Image Compression** \
+[[CVPR 2026](https://arxiv.org/abs/2603.13162)] 
+[[Project](https://njuvision.github.io/DiT-IC/)] 
+[[Code](https://github.com/Eric-qi/DiT-IC)] 
 
 **OSCAR: One-Step Diffusion Codec Across Multiple Bit-rates** \
 [[NeurIPS 2025](https://arxiv.org/abs/2505.16091)] 
